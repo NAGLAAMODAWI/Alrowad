@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node21" appversion="6.1.9" apprev="17983">
+  <panorama hideabout="1" id="node12">
+    <input levelbias="0.400" overlap="1" levelingroll="2.4" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="1.6" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-22.3" fov="100" projection="4" tilt="-3.78"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node12" heading="0" copyright="" title="حمام الضيوف" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:56 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-291.65" description="" customimageheight="50" fov="10" url="{node21}" target="" title="مدخل الشقة" customimage="media/exit.png" id="Point01" customimagewidth="50" use3D="0" tilt="-21.52" skinid="ht_node" distance3D="285.751"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input levelbias="0.400" overlap="1" levelingroll="-0.2" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="-1.8" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-91.3111" fov="100" projection="4" tilt="-4.82294"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node13" heading="0" copyright="" title="حمام الصالة" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:55 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-198.51" description="" customimageheight="50" fov="10" url="{node22}" target="" title="ممر الغرف" customimage="media/exit.png" id="Point01" customimagewidth="50" use3D="0" tilt="-17.74" skinid="ht_node" distance3D="285.751"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input levelbias="0.400" overlap="1" levelingroll="1.9" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="0.7" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-63.8293" fov="80" projection="4" tilt="-2.68739"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node16" heading="0" copyright="" title="الغرفة الماستر" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:52 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-158.84" description="في كل شقة يتم تجهيز كافة التوصيلات اللازمة لتكييف" url="" target="_blank" title="توصيلات التكييف" id="Point01" tilt="20.81" skinid="ht_info"/>
+      <hotspot pan="-289.25" description="" customimageheight="42" fov="10" url="{node20}" target="" title="حمام الماستر" customimage="media/002-bath.png" id="Point02" customimagewidth="42" use3D="0" tilt="0.46" skinid="ht_node" distance3D="240.031"/>
+      <hotspot pan="-238.75" description="" customimageheight="50" fov="10" url="{node22}" target="" title="ممر الغرف" customimage="media/exit.png" id="Point03" customimagewidth="50" use3D="0" tilt="-9.49" skinid="ht_node" distance3D="285.751"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node20">
+    <input levelbias="0.400" overlap="1" levelingroll="1.6" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="0.5" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="90.66" fov="100" projection="4" tilt="0.66"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node20" heading="0" copyright="" title="حمام الماستر" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:55 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-144.06" description="" customimageheight="50" fov="10" url="{node16}" target="" title="" customimage="media/exit.png" id="Point01" customimagewidth="50" use3D="0" tilt="-14.07" skinid="ht_node" distance3D="285.751"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input levelbias="0.400" overlap="1" levelingroll="2.1" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="1.1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="89.9602" fov="90" projection="4" tilt="0.137398"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node15" heading="0" copyright="" title="الغرفة 2" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:53 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-327.04" description="في كل شقة يتم تجهيز كافة التوصيلات اللازمة لتكييف" url="" target="" title="توصيلات التكييف" id="Point01" tilt="24.35" skinid="ht_info"/>
+      <hotspot pan="-120.58" description="" customimageheight="50" fov="10" url="{node22}" target="" title="ممر الغرف" customimage="media/exit.png" id="Point02" customimagewidth="50" use3D="0" tilt="-7.39" skinid="ht_node" distance3D="285.751"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input levelbias="0.400" overlap="1" levelingroll="2.7" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="2.1" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="89.7018" fov="90" projection="4" tilt="0.205108"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node17" heading="0" copyright="" title="الغرفة 1" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:56 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-202.87" description="في كل شقة يتم تجهيز كافة التوصيلات اللازمة لتكييف" url="" target="" title="توصيلات التكييف" id="Point01" tilt="24.05" skinid="ht_info"/>
+      <hotspot pan="-57.13" description="" customimageheight="50" fov="10" url="{node22}" target="" title="" customimage="media/exit.png" id="Point02" customimagewidth="50" use3D="0" tilt="-3.56" skinid="ht_node" distance3D="285.751"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node22">
+    <input levelbias="0.400" overlap="1" levelingroll="1.5" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="1.2" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="80" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node22" heading="0" copyright="" title="ممر الغرف" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:54 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-213.86" description="" customimageheight="45" fov="10" url="{node13}" target="" title="حمام الصالة" customimage="media/002-bath.png" id="Point01" customimagewidth="45" use3D="0" tilt="-4.92" skinid="ht_node" distance3D="257.176"/>
+      <hotspot pan="-16.73" description="" customimageheight="40" fov="5.91425" url="{node17}" target="" title="الغرفة 1" customimage="media/double-bed.png" id="Point02" customimagewidth="40" use3D="1" tilt="0.34" skinid="ht_node" distance3D="387.166"/>
+      <hotspot pan="-48.86" description="" customimageheight="50" fov="10" url="{node15}" target="" title="الغرفة 2" customimage="media/double-bed.png" id="Point03" customimagewidth="50" use3D="0" tilt="-3.28" skinid="ht_node" distance3D="285.751"/>
+      <hotspot pan="-358.12" description="" customimageheight="50" fov="10" url="{node16}" target="" title="الغرفة الماستر" customimage="media/double-bed.png" id="Point04" customimagewidth="50" use3D="0" tilt="-0.75" skinid="ht_node" distance3D="285.751"/>
+      <hotspot pan="-178.81" description="" customimageheight="40" fov="10" url="{node14}" target="" title="الصالة" customimage="media/up-arrow (1).png" id="Point05" customimagewidth="40" use3D="0" tilt="-23.94" skinid="ht_node" distance3D="228.601"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input levelbias="0.400" overlap="1" levelingroll="2" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="1" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-3.01453" fov="80" projection="4" tilt="2.20954"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node18" heading="0" copyright="" title="المطبخ" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:56 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-237.99" description="" customimageheight="50" fov="10" url="{node14}" target="" title="الصالة" customimage="media/exit.png" id="Point01" customimagewidth="50" use3D="0" tilt="-10.41" skinid="ht_node" distance3D="285.751"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input levelbias="0.400" overlap="1" levelingroll="2.9" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node14" heading="0" copyright="" title="الصالة" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:53 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-114.41" description="" customimageheight="45" fov="10" url="{node18}" target="" title="المطبخ" customimage="media/restaurant.png" id="Point01" customimagewidth="45" use3D="0" tilt="-2.15" skinid="ht_node" distance3D="257.176"/>
+      <hotspot pan="-28.32" description="" customimageheight="40" fov="10" url="{node19}" target="" title="الصالة" customimage="media/up-arrow (1).png" id="Point02" customimagewidth="40" use3D="0" tilt="-23.47" skinid="ht_node" distance3D="228.601"/>
+      <hotspot pan="-109.29" description="" customimageheight="40" fov="10" url="{node22}" target="" title="ممر الغرف" customimage="media/RIGTH.png" id="Point03" customimagewidth="40" use3D="0" tilt="-28.67" skinid="ht_node" distance3D="228.601"/>
+      <hotspot pan="-63.69" description="" url="images/IMG-20220320-WA0005.jpg" target="" title="نظام إنتركوم " id="Point04" tilt="6.96" skinid="ht_image"/>
+      <polyhotspot description="" url="" target="_blank" title="إنذار حرائق" id="Poly01">
+        <polystring>-59.18/36.14|-60.09/35.2|-58/35.14|-58.43/34.14</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node19">
+    <input levelbias="0.400" overlap="1" levelingroll="2.4" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="0.3" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="172.773" fov="93" projection="4" tilt="-3.10783"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node19" heading="0" copyright="" title="الصالة" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:54 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-30.23" description="" customimageheight="40" fov="10" url="{node21}" target="" title="مدخل الشقة" customimage="media/up-arrow (1).png" id="Point01" customimagewidth="40" use3D="0" tilt="-15.94" skinid="ht_node" distance3D="228.601"/>
+      <hotspot pan="-81.72" description="" customimageheight="40" fov="10" url="{node14}" target="" title="الصالة" customimage="media/up-arrow (1).png" id="Point02" customimagewidth="40" use3D="0" tilt="-30.21" skinid="ht_node" distance3D="228.601"/>
+      <hotspot pan="-149.09" description="في كل شقة يتم تجهيز كافة التوصيلات اللازمة لتكييف" url="" target="" title="توصيلات التكييف" id="Point03" tilt="18.94" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node21">
+    <input levelbias="0.400" overlap="1" levelingroll="2.1" leveltilesize="510" levelbiashidpi="1.000" height="1344" levelingpitch="0.6" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1344">
+      <level height="1344" predecode="0" width="1344" preload="0"/>
+      <level height="672" predecode="0" width="672" preload="0"/>
+      <level height="336" predecode="1" width="336" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-17.1584" fov="100" projection="4" tilt="1.15992"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" info="" customnodeid="" nodeid="node21" heading="0" copyright="" title="مدخل الشقة" longitude="" comment="" latitude="" tags="Alrowad2" datetime="30/03/2022 9:54 am" source="" author=""/>
+    <hotspots wordwrap="1" height="0" width="110">
+      <label textalpha="1" border="1" background="0" wordwrap="1" borderalpha="1" bordercolor="0xffffff" height="0" enabled="1" textcolor="0x000000" backgroundalpha="1" width="110" backgroundcolor="0xffffff" borderradius="2"/>
+      <polystyle handcursor="1" borderalpha="0.588235" bordercolor="0xffffff" mode="2" backgroundalpha="0.588235" backgroundcolor="0xffffff"/>
+      <hotspot pan="-21.78" description="" customimageheight="40" fov="10" url="{node19}" target="" title="الصالة" customimage="media/up-arrow (1).png" id="Point01" customimagewidth="40" use3D="0" tilt="-30.41" skinid="ht_node" distance3D="228.601"/>
+      <hotspot pan="-152.53" description="" customimageheight="45" fov="8.18411" url="{node12}" target="" title="حمام الضيوف" customimage="media/002-bath.png" id="Point02" customimagewidth="45" use3D="1" tilt="-5.55" skinid="ht_node" distance3D="314.503"/>
+      <hotspot pan="-288.6" description="تحتوي كل شقة على لوحة تحكم كهربائية خاصة بها" url="" target="" title="لوحة تحكم كهربائية" id="Point03" tilt="36.24" skinid="ht_info"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomoutpause="1" blendtime="1" zoomspeed="2" enabled="1" zoomfov="20"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="1"/>
+    <control invertwheel="0" sensitivity="8" lockedkeyboard="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" speedwheel="1" contextfullscreen="0" simulatemass="1" rubberband="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" info="" customnodeid="" nodeid="master" heading="0" copyright="" title="" longitude="" comment="" latitude="" tags="" datetime="" source="" author=""/>
+  </masternode>
+</tour>
